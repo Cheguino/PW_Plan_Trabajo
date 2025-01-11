@@ -1,0 +1,33 @@
+h1 {
+  /*color: red;
+  width: 500px; 
+  border: 1px solid black;
+*/
+
+  font-size: 30px; /*Tamaño del titulo*/
+  text-align: center; /*Alineación*/
+
+}
+
+body {
+  width: 750px; /*Ancho del cuerpo*/
+  margin: 0 auto;
+  background-color: auto;
+  padding: 0 20px 20px 20px;
+  border: 5px solid black;
+}
+
+table {
+    background-color: beige;
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+    border: 10;
+   
+}
+
+td, th {
+    border: 1px solid #000000;
+    text-align: left;
+    padding: 5px;
+}
